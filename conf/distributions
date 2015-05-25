@@ -1,0 +1,8 @@
+Origin: BlankOn
+Codename: tambora
+Description: Tambora
+Architectures: amd64 i386 armhf source
+Components: main restricted 
+UDebComponents: main
+Contents: .gz
+Update: - blankon-tambora

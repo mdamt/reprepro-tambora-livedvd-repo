@@ -1,0 +1,6 @@
+Name: blankon-tambora
+Method: http://arsip.blankonlinux.or.id/blankon
+Components: main restricted
+UDebComponents: main
+Architectures: amd64 i386 armhf
+FilterList: purge ../packages
